@@ -1,5 +1,5 @@
 # projeto-nwl
-Projeto em React Native com Expo, TypeScriptm Zustand, para lanchonetes e restaurantes, com carrinho de compra e muito mais
+Projeto em React Native com Expo, TypeScript, Zustand, para lanchonetes e restaurantes, com carrinho de compra e muito mais
 
 
 ![img_app_menu](https://github.com/LuccasCaron/projeto-nwl/assets/127347354/9edb606b-4252-46a1-8604-bf7eeadbb9f7)
